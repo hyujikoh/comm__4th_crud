@@ -11,8 +11,8 @@ public class App {
 
     public static String DB_HOST = "localhost";
     public static int DB_PORT = 3306;
-    public static String DB_ID = "tigershrimp";
-    public static String DB_PASSWORD = "270227";
+    public static String DB_ID = "root";
+    public static String DB_PASSWORD = "";
     public static String DB_NAME = "blog_08_04";
     public static boolean isProd = false;
 
